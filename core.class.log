@@ -1,0 +1,156 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC71FA888EDE65EA8E2',
+    participant: undefined
+  },
+  messageTimestamp: 1729298952,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: 'ver imagenes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'ver imagenes',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_841db38f-b813-40e1-bc69-0d6889c0d73b',
+  keyword: 'key_d05328ba-fbc2-4ec3-8f76-25d3ded3929d',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb34aab4dcdd54399b960840fceb681c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7DACDD864248BFC727',
+    participant: undefined
+  },
+  messageTimestamp: 1729298958,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: 'tickets',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'tickets',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5b35da6-1708-4a11-b41b-98d83a7b038c',
+  keyword: 'key_b3483e12-d73e-4d5f-a809-0a859c05da46',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '674f14c39d79c617dfbae6c2cbb8df4b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4399EE167D6C5FB6AE',
+    participant: undefined
+  },
+  messageTimestamp: 1729299065,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: 'ver imagenes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'ver imagenes',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_841db38f-b813-40e1-bc69-0d6889c0d73b',
+  keyword: 'key_d05328ba-fbc2-4ec3-8f76-25d3ded3929d',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb34aab4dcdd54399b960840fceb681c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7AB4205B78832621D2',
+    participant: undefined
+  },
+  messageTimestamp: 1729299079,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: 'ver imagenes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'ver imagenes',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_841db38f-b813-40e1-bc69-0d6889c0d73b',
+  keyword: 'key_d05328ba-fbc2-4ec3-8f76-25d3ded3929d',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb34aab4dcdd54399b960840fceb681c'
+}
